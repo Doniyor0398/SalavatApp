@@ -1,9 +1,6 @@
 node_modules/
+eslint.congig.mjs/
+package-lock.json/
+package.json
 
-
-package-lock.json
-
-
-dist/
-build/
-*.log
+.*
