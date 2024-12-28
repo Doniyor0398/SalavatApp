@@ -6,6 +6,7 @@ eslint.config.mjs
 
 # Игнорируем файлы блокировки (если не нужны)
 package-lock.json
+package.json
 
 # Игнорируем временные и лог-файлы
 *.log
